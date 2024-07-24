@@ -15,7 +15,7 @@ module.exports = {
     unoptimized: true,
   },
   defaultShowCopyCode: true,
-  basePath: "/docs"
+  basePath: "/docs-ng"
 }
    
   // If you have other Next.js configurations, you can pass them as the parameter:
