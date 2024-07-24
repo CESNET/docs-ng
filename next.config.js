@@ -2,6 +2,7 @@
 const nextConfig = {
   output: "export",  // <=== enables static exports
   reactStrictMode: true,
+  basePath: "/docs-ng",
 };
 
 const withNextra = require('nextra')({
