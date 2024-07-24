@@ -1,6 +1,6 @@
 export default {
-    logo: <span>Mylan Nextra Demo</span>,
+    logo: <span>Mylan docs-ng Demo</span>,
     project: {
-      link: 'https://github.com/milkydan/nextra'
+      link: 'https://github.com/CESNET/docs-ng'
     }
   }
