@@ -1,14 +1,8 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  output: "export",  // <=== enables static exports
-  reactStrictMode: true,
-};
-
 const withNextra = require('nextra')({
-    theme: 'nextra-theme-docs',
-    themeConfig: './theme.config.jsx'
-  })
-   
+  theme: 'nextra-theme-docs',
+  themeConfig: './theme.config.tsx'
+})
+
 module.exports = {
   ...withNextra(),
   images: {
@@ -17,11 +11,5 @@ module.exports = {
   defaultShowCopyCode: true,
   basePath: "/docs-ng"
 }
-   
-  // If you have other Next.js configurations, you can pass them as the parameter:
-  // module.exports = withNextra({ /* other next.js config */ })
-
-  // export default nextConfig;
-  //export default withNextra;
 
   
