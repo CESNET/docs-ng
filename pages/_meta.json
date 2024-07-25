@@ -4,11 +4,11 @@
       "title": "Welcome",
       "display": "hidden"
     },
-    "CERIT-SC": {
+    "ceritsc": {
         "type": "page",
         "title": "CERIT-SC"
     },
-    "Data Care": {
+    "datacare": {
         "type": "page",
         "title": "Data Care"
     }
