@@ -1,7 +1,7 @@
 {
     "index": {
       "type": "page",
-      "title": "CERIT-SC",
-      "display": "hidden"
+      "title": "Home",
+      "display" : "hidden"
     }
 }
