@@ -3,5 +3,13 @@
       "type": "page",
       "title": "Welcome",
       "display": "hidden"
+    },
+    "CERIT-SC": {
+        "type": "page",
+        "title": "CERIT-SC"
+    },
+    "Data Care": {
+        "type": "page",
+        "title": "Data Care"
     }
-}
+  }
