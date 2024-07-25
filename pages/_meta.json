@@ -1,15 +1,14 @@
 {
     "index": {
       "type": "page",
-      "title": "Welcome",
-      "display": "hidden"
+      "title": "Home"
     },
     "ceritsc": {
-        "type": "page",
-        "title": "CERIT-SC"
+      "title": "CERIT-SC",
+      "type": "page"
     },
     "datacare": {
-        "type": "page",
-        "title": "Data Care"
+      "title": "Data Care",
+      "type": "page"
     }
-  }
+}
