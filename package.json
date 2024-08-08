@@ -2,6 +2,7 @@
   "name": "nextra-demo",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -10,8 +11,8 @@
   },
   "dependencies": {
     "next": "^14.2.5",
-    "nextra": "^3.0.0-alpha.25",
-    "nextra-theme-docs": "^3.0.0-alpha.25",
+    "nextra": "^3.0.0-alpha.31",
+    "nextra-theme-docs": "^3.0.0-alpha.31",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
